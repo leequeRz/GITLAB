@@ -5,11 +5,19 @@ void main()
   int i;
   do
   {
+<<<<<<< HEAD
     printf("EIEIGUM");
     scanf("%s", Name);
     do
     {
       printf("EIEI");
+=======
+    printf("HAMLNWZA ");
+    scanf("%s", Name);
+    do
+    {
+      printf("LOVELOVEA");
+>>>>>>> fe7c569828d29c2e49c9218d07dcb3ee12e42536
       scanf("%s", G);
 
       if (strcmp(G, "A") !=0  &&
